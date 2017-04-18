@@ -7,7 +7,7 @@ A sample app demoing the awesome new Android N notification features. Simply hit
     <img src="images/main.png" alt="Main Screen"/>
 </p>
 
-#Notification Demos
+# Notification Demos
 
 In this application you can demo notifications for:
 
@@ -77,7 +77,7 @@ To compile and run the project you'll need:
 - Android Support libraries
 - JDK 8
 
-#Building
+# Building
 
 To build, install and run a debug version, run this from the root of the project:
 
